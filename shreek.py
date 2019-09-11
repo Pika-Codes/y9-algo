@@ -1,6 +1,6 @@
 answer = input("Do you want to watch Shrek?")
-if (str(answer)=="yes"):
-    print(" {Man} Once upon a time there was a lovely princess.
+if (str(answer) == "yes","Yes"):
+    print(""" {Man} Once upon a time there was a lovely princess.
 
 But she had an enchantment upon her of a fearful sort which could only 
 
@@ -3428,6 +3428,6 @@ I'm filled with emotion
 
 As I look
 
-Into your perfect face ")
+Into your perfect face """)
 else:
     print("you suck!")
